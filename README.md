@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ci-sumi" alt="ci-sumi" /></a> </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👩🏻‍💻 About Me:</h2>
 
 - 🔭 I’m currently working on [Sumi-Fit](https://github.com/ci-sumi/sumi-fit)
 
