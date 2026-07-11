@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sumi</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Sumi</h1>
 <h3 align="center">I'm backend developer with a strong focus on Python.</h3>
+<br>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1rOXowemxiMGp4bzl6eWt6Z3dwYzJ6dnd3NGVwcDRtNGo0ejR0OSZlcD12MV9fZ2lmeV9ieV9pZD1ySkg2Nkp6dmdaeTlwRk4xMTcmY3Q9Zw/rJH66JzvgZy4PFN117/giphy.gif" 
+       alt="Coder GIF" 
+       width="200">
+</div>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ci-sumi&label=Profile%20views&color=0e75b6&style=flat" alt="ci-sumi" /> </p>
 
