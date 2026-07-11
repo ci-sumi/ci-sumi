@@ -104,3 +104,34 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sumi-tharayil-surendran-33ba69268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumi-tharayil-surendran-33ba69268/" height="30" width="40" /></a>
 </p>
+
+## 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ci-sumi&theme=dark" width="62%" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ci-sumi&theme=dark" width="30%"  alt="Languages Card" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ci-sumi&theme=react-dark" alt="Activity Graph" />
+</p>
+<!-- These are not working
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ci-sumi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ci-sumi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ci-sumi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="tomdu3" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ci-sumi&theme=dark&hide_border=false" alt="tomdu3" /></p>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ci-sumi&theme=dark) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ci-sumi&theme=dark&hide_border=false" alt="tomdu3" /></p>
+<p align="center">
+  <!-- Core GitHub Stats (Using verified extended mirror) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=ci-sumi&theme=dark&show_icons=true&hide_border=false" width="45%" alt="GitHub Stats" align="left" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=ci-sumi&theme=tokyonight&hide_border=false" width="48%" alt="Sumi's GitHub Streak" align="right" />
+  </a>
+  <!-- Matching Coding Streak Stats -->
+  <!-- <img src="https://streak-stats.demolab.com/?user=ci-sumi&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" /> -->
+</p>
+<p align="center">
+  
+</p>
