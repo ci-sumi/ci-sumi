@@ -12,6 +12,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ci-sumi" alt="ci-sumi" /></a> </p>
 
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
 - 🔭 I’m currently working on [Sumi-Fit](https://github.com/ci-sumi/sumi-fit)
 
 - 🌱 I’m currently learning **Flask,Google Cloud Platform (GCP)**
@@ -27,7 +29,6 @@
 - ⚡ Fun fact **I enjoy skywatching and never miss a chance to support the Argentina football team.**
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
 
@@ -99,12 +100,7 @@
 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">:heart: Let's get connected:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sumi-tharayil-surendran-33ba69268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumi-tharayil-surendran-33ba69268/" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ci-sumi&show_icons=true&locale=en&layout=compact" alt="ci-sumi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ci-sumi&show_icons=true&locale=en" alt="ci-sumi" /></p>
