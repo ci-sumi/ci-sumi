@@ -106,31 +106,16 @@
 </p>
 
 ## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ci-sumi&theme=dark" width="62%" alt="Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ci-sumi&theme=dark" width="30%"  alt="Languages Card" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ci-sumi&theme=nord_bright" alt="Stats Card" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ci-sumi&theme=nord_bright" alt="Languages Card" />
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ci-sumi&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ci-sumi&theme=github-light" alt="Activity Graph" />
 </p>
-<!-- These are not working
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ci-sumi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ci-sumi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ci-sumi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="tomdu3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ci-sumi&theme=dark&hide_border=false" alt="tomdu3" /></p>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ci-sumi&theme=dark) -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ci-sumi&theme=dark&hide_border=false" alt="tomdu3" /></p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=ci-sumi&theme=light)
 <p align="center">
   <!-- Core GitHub Stats (Using verified extended mirror) -->
-  <img src="https://github-stats-extended.vercel.app/api?username=ci-sumi&theme=dark&show_icons=true&hide_border=false" width="45%" alt="GitHub Stats" align="left" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ci-sumi&theme=tokyonight&hide_border=false" width="48%" alt="Sumi's GitHub Streak" align="right" />
-  </a>
-  <!-- Matching Coding Streak Stats -->
-  <!-- <img src="https://streak-stats.demolab.com/?user=ci-sumi&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" /> -->
+  <img src="https://github-stats-extended.vercel.app/api?username=ci-sumi&theme=light&show_icons=true&hide_border=false" alt="GitHub Stats" align="center" />
 </p>
 <p align="center">
   
