@@ -137,8 +137,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ci-sumi&theme=light)
 <p align="center">
-  <!-- Core GitHub Stats (Using verified extended mirror) -->
-  <img src="https://github-stats-extended.vercel.app/api?username=ci-sumi&theme=light&show_icons=true&hide_border=false" alt="GitHub Stats" align="center" />
+  <img src="https://streak-stats.demolab.com/?user=ci-sumi&theme=light" alt="GitHub Streak" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ci-sumi&theme=light&show_icons=true&hide_border=false" alt="GitHub Stats" width="49%" align="top" />
 </p>
 <p align="center">
   
