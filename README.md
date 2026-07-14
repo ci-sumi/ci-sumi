@@ -16,11 +16,11 @@
 
 - 🔭 I’m currently working on [Sumi-Fit](https://github.com/ci-sumi/sumi-fit)
 
-- 🌱 I’m currently learning **Flask,Google Cloud Platform (GCP)**
+- 🌱 I’m currently learning **Flask, Google Cloud Platform (GCP)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ci-sumi](https://github.com/ci-sumi)
 
-- 💬 Ask me about **Python,Django,Flask**
+- 💬 Ask me about **Python, Django, Flask**
 
 - 📫 How to reach me **tharayilsurendransumi@gmail.com**
 
