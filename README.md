@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sumi-tharayil-surendran-33ba69268/](https://www.linkedin.com/in/sumi-tharayil-surendran-33ba69268/)
 
-- ⚡ Fun fact **I enjoy skywatching and never miss a chance to support the Argentina football team.**
+- ⚡ Fun fact **I enjoy skywatching and i like Argentina football team.**
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
