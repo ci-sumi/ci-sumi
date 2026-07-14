@@ -127,10 +127,12 @@
 </p>
 
 ## 📊 GitHub Stats:
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ci-sumi&theme=nord_bright" alt="Stats Card" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ci-sumi&theme=nord_bright" alt="Languages Card" />
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ci-sumi&theme=github-light" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ci-sumi&theme=light" alt="Stats Card" width="46%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ci-sumi&theme=light" alt="Languages Card" width="30%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ci-sumi&theme=github-light" alt="Activity Graph" width="100% />
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ci-sumi&theme=light)
